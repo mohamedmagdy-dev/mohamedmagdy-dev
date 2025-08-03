@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm **Mohamed Magdy**, a passionate and dedicated 
 ## 🚀 Featured Projects
 
 ### [🛒 E-commerce Web App](https://github.com/mohamedmagdy-dev/Nest-Ecommerce)
-Dynamic e-commerce platform featuring product filtering, user authentication, and payment integration. Built with **React**, **Redux Toolkit**, and **Firebase**.
+Dynamic e-commerce platform featuring product filtering, user authentication, and payment integration. Built with **React**, **Redux Toolkit**,
 
 
 
